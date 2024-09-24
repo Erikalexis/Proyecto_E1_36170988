@@ -1,0 +1,14 @@
+c:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\bin\Debug\net8.0-windows\Conversor_litendian_puntoflotante.exe
+C:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\bin\Debug\net8.0-windows\Conversor_litendian_puntoflotante.deps.json
+C:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\bin\Debug\net8.0-windows\Conversor_litendian_puntoflotante.runtimeconfig.json
+c:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\bin\Debug\net8.0-windows\Conversor_litendian_puntoflotante.dll
+c:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\bin\Debug\net8.0-windows\Conversor_litendian_puntoflotante.pdb
+c:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\obj\Debug\net8.0-windows\Conversor_litendian_puntoflotante.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\obj\Debug\net8.0-windows\Conversor_litendian_puntoflotante.AssemblyInfoInputs.cache
+c:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\obj\Debug\net8.0-windows\Conversor_litendian_puntoflotante.AssemblyInfo.cs
+c:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\obj\Debug\net8.0-windows\Conversor_litendian_puntoflotante.csproj.CoreCompileInputs.cache
+c:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\obj\Debug\net8.0-windows\Conversor_litendian_puntoflotante.dll
+c:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\obj\Debug\net8.0-windows\refint\Conversor_litendian_puntoflotante.dll
+c:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\obj\Debug\net8.0-windows\Conversor_litendian_puntoflotante.pdb
+C:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\obj\Debug\net8.0-windows\Conversor_litendian_puntoflotante.genruntimeconfig.cache
+C:\Users\ERIKY\documents\Escolar\Programacion\Conversor_litendian_puntoflotante\obj\Debug\net8.0-windows\ref\Conversor_litendian_puntoflotante.dll
